@@ -1,70 +1,32 @@
-# 👨‍💻 QA Engineer Portfolio
+# QA Portfolio — Maksim
 
-Hi! I am a Junior QA Engineer focused on Manual Testing.
-I create test cases, checklists, and bug reports for web, mobile, and API projects.
+## About me
+Junior QA (Manual + Automation).
+Learning Selenium with Python.
+Location: Netherlands (Helmond).
 
----
-
-## 🚀 About Me
-- Junior QA Engineer (Manual)
-- Web, Mobile (Android), API testing
-- Strong understanding of SDLC, STLC
-- Actively building QA portfolio
-- Improving English (A2 → B1)
-
----
-
-## 🛠 Skills
-- Test Cases / Checklists / Bug Reports
-- Functional, UI, Regression testing
-- Mobile testing (Android)
-- API testing (Postman)
-- SQL basics
-- Git / GitHub
-
----
-
-## 📂 Projects
-
-### 🔹 Web Testing Project
-Testing an e-commerce website.
-- Test cases
-- Checklists
+## Skills
+- Manual testing
+- Test cases & check-lists
 - Bug reports
+- Selenium (Python)
+- Basic GitHub
 
-👉 `/Web-Testing-Project`
+## Automation Tests
+Selenium tests are located in the `tests` folder.
 
----
+## Check-lists
 
-### 🔹 Mobile Testing Project (Android)
-Testing Android mobile application.
-- Test cases
-- Checklists
-- Bug reports
+### Login Page
+- Email field is displayed
+- Password field is displayed
+- Password is masked
+- Error message is shown for invalid data
+- Login button works
+- Successful login
 
-👉 `/Mobile-Testing-Project`
-
----
-
-### 🔹 API Testing Project
-API testing using Postman.
-- GET / POST requests
-- JSON validation
-- Status codes
-
-👉 `/API-Testing`
-
----
-
-### 🔹 SQL Practice
-Basic SQL queries for QA.
-- SELECT
-- WHERE
-- ORDER BY
-
-👉 `/SQL-Tasks`
-
----
-
-## 📬 Contact
-Email: your_email@example.com
+### Product Page
+- Product data is displayed
+- Product price is displayed
+- Product image is displayed
+- Add to cart button works
